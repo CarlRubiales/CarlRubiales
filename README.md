@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi there,I'm Carl John Rubiales
 
-<!--
-**CarlRubiales/CarlRubiales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+•BSIT Student at Laguna State Polytechnic University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+•Currently learning Python, Flask, SQL.
+
+•Goal: To become a skilled Web and Mobile Application Developer
+
+•Interested in Software Development, Cloud Computing, and UI/UX Design
+
+## Skills
+
+•Languages: Python, HTML, SQL, CSS, JAVA, C#
+
+•Frameworks/Tools: Flask, Flutter, Git, GitHub
+
+•Other: Database Management, Web Development Basics
+
+Current Projects
+
+•LSPU CampusNav website (Navigate your way through lspu-scc)
+
+•Learning Git and GitHub for version control 
+
+•Developing practice projects in Python
+
+•UI Inventory of DAMADA CAFE
+
+## Connect with Me
+Email: carljohnrubiales@gmail.con
